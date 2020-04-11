@@ -1,0 +1,6 @@
+<aura:documentation>
+	<aura:description>WiredBrainMailSignUp</aura:description>
+	<aura:example name="WiredBrainMailSignUp" ref="WiredBrainMailSignUpExample" label="Label">
+		This is a sign up component that allows internal users to add their user to email notification lists for Wired Announcements.
+	</aura:example>
+</aura:documentation>

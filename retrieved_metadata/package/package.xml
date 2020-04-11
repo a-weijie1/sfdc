@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>sharing_and_security_examples</fullName>
+    <types>
+        <members>MailListViewController</members>
+        <members>MailListViewControllerTest</members>
+        <members>TestingService</members>
+        <members>WiredAnnouncementsSharing</members>
+        <members>WiredAnnouncementsSharingTest</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
+        <members>WiredBrainMail</members>
+        <members>WiredBrainMailSignUp</members>
+        <name>AuraDefinitionBundle</name>
+    </types>
+    <types>
+        <members>Error__c.Error_Message__c</members>
+        <members>Wired_Announcement__c.Body__c</members>
+        <members>Wired_Announcement__c.Subject__c</members>
+        <members>Wired_Mail_Sign_Up__c.Sign_Up_Date__c</members>
+        <members>Wired_Mail_Sign_Up__c.Unsubscribe_Date__c</members>
+        <members>Wired_Mail_Sign_Up__c.User__c</members>
+        <name>CustomField</name>
+    </types>
+    <types>
+        <members>Error__c</members>
+        <members>Wired_Announcement__c</members>
+        <members>Wired_Mail_Sign_Up__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>Wired_Brain_Mail_Test</members>
+        <name>FlexiPage</name>
+    </types>
+    <types>
+        <members>Error__c-Error Layout</members>
+        <members>Wired_Announcement__c-Wired Announcement Layout</members>
+        <members>Wired_Mail_Sign_Up__c-Wired Mail Sign Up Layout</members>
+        <name>Layout</name>
+    </types>
+    <types>
+        <members>Error__c.All</members>
+        <members>Wired_Announcement__c.All</members>
+        <members>Wired_Mail_Sign_Up__c.All</members>
+        <name>ListView</name>
+    </types>
+    <version>43.0</version>
+</Package>

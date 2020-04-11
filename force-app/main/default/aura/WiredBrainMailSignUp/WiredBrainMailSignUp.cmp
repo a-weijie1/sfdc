@@ -1,0 +1,23 @@
+<aura:component access="global" 
+                controller="MailListViewController" 
+                implements="flexipage:availableForAllPageTypes">
+    <div class="c-container">
+    <lightning:layout>
+        <br/>
+        <lightning:layoutitem padding="around-small" flexibility="auto">
+            <div class="header-column">
+                <lightning:button aura:id="signup" 
+                                label="Sign Up" 
+                                class="slds-m-top_medium" 
+                                variant="brand" 
+                                onclick="{!c.submit}" />
+            </div>
+        </lightning:layoutitem>
+        <br/>
+        <lightning:button aura:id="unsubscribe" 
+                        label="Already signed up? Need to unsubscribe?" 
+                        variant="base" 
+                        onclick="{!c.unsub}"/>    
+    </lightning:layout>
+    </div>
+</aura:component>	
