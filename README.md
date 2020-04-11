@@ -1,21 +1,25 @@
-# Salesforce Sharing and Security Fundamentals
-### Course Examples
-This is the repository for the Salesforce Sharing and Security Fundamentals course on Pluralsight. It contains components utilized throughout the course. 
+# Introduction
+Hi guys! Welcome to my sfdc dev repo!
 
-## Installation To A Developer Org
-After registering a new developer org, it is possible to install these components into the org for the purpose of experimentation outside the course video materials.
+## Steps to how i got here
 
-Replace <yourusername@pluralsight.com> in these command line examples with your own username.
+1. Create a Salesforce Project in VS so as to get the necessary folder structures and all for deployment later on.
+2. Go to the directory created in step 1
+3. git init
+4. git add
+5. git commit -m 'comment'
+6. Create a repo in github
+7. git remote set-url origin https://github.com/a-weijie1/sfdc-dev.git
+8. git push -u origin master
 
-*Authenticate into your Salesforce Developer Org using your own username and password via the web auth method.*
+*Replace <https://github.com/a-weijie1/sfdc-dev.git> with the correct url*
+
 ```
 sfdx force:auth:web:login
 ```
 
-*Deploy to your Developer Org using the Metadata API.*
+*Deploy to your Org using the Metadata API.*
 
 ```
 sfdx force:mdapi:deploy -u <yourusername@pluralsight.com> -d metadata_deploy -w 8
 ```
-
-That's it! After the metadata deployment shows as successful, your components are installed and ready to go. You can then begin tinkering and learning using your own tools and ideas.
