@@ -1,0 +1,542 @@
+[
+    [
+        "C:\\Users\\ngwei\\Downloads\\SFDC\\SFDC_DEV\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ngwei\\Downloads\\SFDC\\SFDC_DEV\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1537386590000,
+            "changeTime": 1586577769518,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\ngwei\\Downloads\\SFDC\\SFDC_DEV\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ngwei\\Downloads\\SFDC\\SFDC_DEV\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1537386590000,
+            "changeTime": 1586577656061,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ngwei\\Downloads\\SFDC\\SFDC_DEV\\force-app\\main\\default",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ngwei\\Downloads\\SFDC\\SFDC_DEV\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1537386592000,
+            "changeTime": 1586577656062,
+            "contentHash": "5d20a76a8e501748afc6ffcaced863bf7220f819",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ngwei\\Downloads\\SFDC\\SFDC_DEV\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ngwei\\Downloads\\SFDC\\SFDC_DEV\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1537386590000,
+            "changeTime": 1586577656063,
+            "contentHash": "b781d1e3cdbc1007c0659f3b1415b29eb99efce7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ngwei\\Downloads\\SFDC\\SFDC_DEV\\force-app\\main\\default\\aura\\WiredBrainMail",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ngwei\\Downloads\\SFDC\\SFDC_DEV\\force-app\\main\\default\\aura\\WiredBrainMail",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1537386590000,
+            "changeTime": 1586577656065,
+            "contentHash": "52eb3e0ed5073a33fb89dfb5be94fbad9f95d92b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ngwei\\Downloads\\SFDC\\SFDC_DEV\\force-app\\main\\default\\aura\\WiredBrainMail\\WiredBrainMail.app",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ngwei\\Downloads\\SFDC\\SFDC_DEV\\force-app\\main\\default\\aura\\WiredBrainMail\\WiredBrainMail.app",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 347,
+            "modifiedTime": 1536069810000,
+            "changeTime": 1586577655169,
+            "contentHash": "2b315fb94d5d07bee30aac41dc120ad84c9d31f7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ngwei\\Downloads\\SFDC\\SFDC_DEV\\force-app\\main\\default\\aura\\WiredBrainMail\\WiredBrainMail.app-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ngwei\\Downloads\\SFDC\\SFDC_DEV\\force-app\\main\\default\\aura\\WiredBrainMail\\WiredBrainMail.app-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 248,
+            "modifiedTime": 1534097698000,
+            "changeTime": 1586577655176,
+            "contentHash": "e4f68bbddfe62834f610ca47afc247f88f5b8674",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ngwei\\Downloads\\SFDC\\SFDC_DEV\\force-app\\main\\default\\aura\\WiredBrainMail\\WiredBrainMail.auradoc",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ngwei\\Downloads\\SFDC\\SFDC_DEV\\force-app\\main\\default\\aura\\WiredBrainMail\\WiredBrainMail.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 359,
+            "modifiedTime": 1535988426000,
+            "changeTime": 1586577655183,
+            "contentHash": "3ec98aa190e110f13703dc80abe22564d30c1aaf",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ngwei\\Downloads\\SFDC\\SFDC_DEV\\force-app\\main\\default\\aura\\WiredBrainMail\\WiredBrainMail.css",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ngwei\\Downloads\\SFDC\\SFDC_DEV\\force-app\\main\\default\\aura\\WiredBrainMail\\WiredBrainMail.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 10,
+            "modifiedTime": 1534097698000,
+            "changeTime": 1586577655188,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ngwei\\Downloads\\SFDC\\SFDC_DEV\\force-app\\main\\default\\aura\\WiredBrainMail\\WiredBrainMail.svg",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ngwei\\Downloads\\SFDC\\SFDC_DEV\\force-app\\main\\default\\aura\\WiredBrainMail\\WiredBrainMail.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1534097698000,
+            "changeTime": 1586577655193,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ngwei\\Downloads\\SFDC\\SFDC_DEV\\force-app\\main\\default\\aura\\WiredBrainMail\\WiredBrainMailController.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ngwei\\Downloads\\SFDC\\SFDC_DEV\\force-app\\main\\default\\aura\\WiredBrainMail\\WiredBrainMailController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 65,
+            "modifiedTime": 1534097698000,
+            "changeTime": 1586577655201,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ngwei\\Downloads\\SFDC\\SFDC_DEV\\force-app\\main\\default\\aura\\WiredBrainMail\\WiredBrainMailHelper.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ngwei\\Downloads\\SFDC\\SFDC_DEV\\force-app\\main\\default\\aura\\WiredBrainMail\\WiredBrainMailHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1534097698000,
+            "changeTime": 1586577655208,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ngwei\\Downloads\\SFDC\\SFDC_DEV\\force-app\\main\\default\\aura\\WiredBrainMail\\WiredBrainMailRenderer.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ngwei\\Downloads\\SFDC\\SFDC_DEV\\force-app\\main\\default\\aura\\WiredBrainMail\\WiredBrainMailRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1534097698000,
+            "changeTime": 1586577655213,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ngwei\\Downloads\\SFDC\\SFDC_DEV\\force-app\\main\\default\\aura\\WiredBrainMailSignUp",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ngwei\\Downloads\\SFDC\\SFDC_DEV\\force-app\\main\\default\\aura\\WiredBrainMailSignUp",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1537386590000,
+            "changeTime": 1586577656066,
+            "contentHash": "fc37c0d9c2a2568ee7d97e1820dc2a25d7829185",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ngwei\\Downloads\\SFDC\\SFDC_DEV\\force-app\\main\\default\\aura\\WiredBrainMailSignUp\\WiredBrainMailSignUp.auradoc",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ngwei\\Downloads\\SFDC\\SFDC_DEV\\force-app\\main\\default\\aura\\WiredBrainMailSignUp\\WiredBrainMailSignUp.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 338,
+            "modifiedTime": 1535988508000,
+            "changeTime": 1586577655220,
+            "contentHash": "7081af40810ef924fa34fc5f2ad0a4f1ad5f7e75",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ngwei\\Downloads\\SFDC\\SFDC_DEV\\force-app\\main\\default\\aura\\WiredBrainMailSignUp\\WiredBrainMailSignUp.cmp",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ngwei\\Downloads\\SFDC\\SFDC_DEV\\force-app\\main\\default\\aura\\WiredBrainMailSignUp\\WiredBrainMailSignUp.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 929,
+            "modifiedTime": 1536069844000,
+            "changeTime": 1586577655226,
+            "contentHash": "6216109532d8ed1ccaa3dfde70746b1bb129f3d2",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ngwei\\Downloads\\SFDC\\SFDC_DEV\\force-app\\main\\default\\aura\\WiredBrainMailSignUp\\WiredBrainMailSignUp.cmp-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ngwei\\Downloads\\SFDC\\SFDC_DEV\\force-app\\main\\default\\aura\\WiredBrainMailSignUp\\WiredBrainMailSignUp.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 252,
+            "modifiedTime": 1534105518000,
+            "changeTime": 1586577655233,
+            "contentHash": "621a96e519b03815015e92599d4e19a40321fd94",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ngwei\\Downloads\\SFDC\\SFDC_DEV\\force-app\\main\\default\\aura\\WiredBrainMailSignUp\\WiredBrainMailSignUp.css",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ngwei\\Downloads\\SFDC\\SFDC_DEV\\force-app\\main\\default\\aura\\WiredBrainMailSignUp\\WiredBrainMailSignUp.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 252,
+            "modifiedTime": 1535200710000,
+            "changeTime": 1586577655239,
+            "contentHash": "ecded54decf733dca8bea14fb0421528109ced55",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ngwei\\Downloads\\SFDC\\SFDC_DEV\\force-app\\main\\default\\aura\\WiredBrainMailSignUp\\WiredBrainMailSignUp.design",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ngwei\\Downloads\\SFDC\\SFDC_DEV\\force-app\\main\\default\\aura\\WiredBrainMailSignUp\\WiredBrainMailSignUp.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40,
+            "modifiedTime": 1534105518000,
+            "changeTime": 1586577655245,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ngwei\\Downloads\\SFDC\\SFDC_DEV\\force-app\\main\\default\\aura\\WiredBrainMailSignUp\\WiredBrainMailSignUp.svg",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ngwei\\Downloads\\SFDC\\SFDC_DEV\\force-app\\main\\default\\aura\\WiredBrainMailSignUp\\WiredBrainMailSignUp.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1534105518000,
+            "changeTime": 1586577655251,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ngwei\\Downloads\\SFDC\\SFDC_DEV\\force-app\\main\\default\\aura\\WiredBrainMailSignUp\\WiredBrainMailSignUpController.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ngwei\\Downloads\\SFDC\\SFDC_DEV\\force-app\\main\\default\\aura\\WiredBrainMailSignUp\\WiredBrainMailSignUpController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 923,
+            "modifiedTime": 1536066288000,
+            "changeTime": 1586577655256,
+            "contentHash": "72867d3996fc28472b12871df08970bc044379f4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ngwei\\Downloads\\SFDC\\SFDC_DEV\\force-app\\main\\default\\aura\\WiredBrainMailSignUp\\WiredBrainMailSignUpHelper.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ngwei\\Downloads\\SFDC\\SFDC_DEV\\force-app\\main\\default\\aura\\WiredBrainMailSignUp\\WiredBrainMailSignUpHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1534105518000,
+            "changeTime": 1586577655261,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ngwei\\Downloads\\SFDC\\SFDC_DEV\\force-app\\main\\default\\aura\\WiredBrainMailSignUp\\WiredBrainMailSignUpRenderer.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ngwei\\Downloads\\SFDC\\SFDC_DEV\\force-app\\main\\default\\aura\\WiredBrainMailSignUp\\WiredBrainMailSignUpRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1534105518000,
+            "changeTime": 1586577655266,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ngwei\\Downloads\\SFDC\\SFDC_DEV\\force-app\\main\\default\\classes",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ngwei\\Downloads\\SFDC\\SFDC_DEV\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1537386592000,
+            "changeTime": 1586577656068,
+            "contentHash": "0ae04bd7ecfe0ef5f6393061509f34380f1629b0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ngwei\\Downloads\\SFDC\\SFDC_DEV\\force-app\\main\\default\\classes\\MailListViewController.cls",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ngwei\\Downloads\\SFDC\\SFDC_DEV\\force-app\\main\\default\\classes\\MailListViewController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 3036,
+            "modifiedTime": 1535989998000,
+            "changeTime": 1586577655273,
+            "contentHash": "064f2040b96873fcada0e2729d15180a7e1ec946",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ngwei\\Downloads\\SFDC\\SFDC_DEV\\force-app\\main\\default\\classes\\MailListViewController.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ngwei\\Downloads\\SFDC\\SFDC_DEV\\force-app\\main\\default\\classes\\MailListViewController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 200,
+            "modifiedTime": 1534097430000,
+            "changeTime": 1586577655279,
+            "contentHash": "a0c32d7f7c2050d717a493a456c8bf86cc601038",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ngwei\\Downloads\\SFDC\\SFDC_DEV\\force-app\\main\\default\\classes\\MailListViewControllerTest.cls",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ngwei\\Downloads\\SFDC\\SFDC_DEV\\force-app\\main\\default\\classes\\MailListViewControllerTest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1759,
+            "modifiedTime": 1535665742000,
+            "changeTime": 1586577655285,
+            "contentHash": "898efd0b1f903332366b7c4ff28c8294d2c619a6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ngwei\\Downloads\\SFDC\\SFDC_DEV\\force-app\\main\\default\\classes\\MailListViewControllerTest.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ngwei\\Downloads\\SFDC\\SFDC_DEV\\force-app\\main\\default\\classes\\MailListViewControllerTest.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 204,
+            "modifiedTime": 1535204034000,
+            "changeTime": 1586577655291,
+            "contentHash": "f4c1417fb992e27f7c8bbeef7754662c5a976845",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ngwei\\Downloads\\SFDC\\SFDC_DEV\\force-app\\main\\default\\classes\\TestingService.cls",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ngwei\\Downloads\\SFDC\\SFDC_DEV\\force-app\\main\\default\\classes\\TestingService.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1064,
+            "modifiedTime": 1535488378000,
+            "changeTime": 1586577655296,
+            "contentHash": "af32b32d2a74199048cd3148581526f7fee75f54",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ngwei\\Downloads\\SFDC\\SFDC_DEV\\force-app\\main\\default\\classes\\TestingService.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ngwei\\Downloads\\SFDC\\SFDC_DEV\\force-app\\main\\default\\classes\\TestingService.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 192,
+            "modifiedTime": 1535488274000,
+            "changeTime": 1586577655301,
+            "contentHash": "310891374a7407cec67fb8d81ed65e09f0c9cf3c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ngwei\\Downloads\\SFDC\\SFDC_DEV\\force-app\\main\\default\\classes\\WiredAnnouncementsSharing.cls",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ngwei\\Downloads\\SFDC\\SFDC_DEV\\force-app\\main\\default\\classes\\WiredAnnouncementsSharing.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 3634,
+            "modifiedTime": 1535665054000,
+            "changeTime": 1586577655308,
+            "contentHash": "799e4a531159b13787a18042d8fa08c0488e0789",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ngwei\\Downloads\\SFDC\\SFDC_DEV\\force-app\\main\\default\\classes\\WiredAnnouncementsSharing.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ngwei\\Downloads\\SFDC\\SFDC_DEV\\force-app\\main\\default\\classes\\WiredAnnouncementsSharing.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 203,
+            "modifiedTime": 1535204126000,
+            "changeTime": 1586577655315,
+            "contentHash": "561cd0589bef4ab1e2c91b2d1c9dfd6d87b6cb0c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ngwei\\Downloads\\SFDC\\SFDC_DEV\\force-app\\main\\default\\classes\\WiredAnnouncementsSharingTest.cls",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ngwei\\Downloads\\SFDC\\SFDC_DEV\\force-app\\main\\default\\classes\\WiredAnnouncementsSharingTest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 3413,
+            "modifiedTime": 1536066144000,
+            "changeTime": 1586577655320,
+            "contentHash": "8c90f8aa7f2fa02784b5035806d20c0813d6ea82",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ngwei\\Downloads\\SFDC\\SFDC_DEV\\force-app\\main\\default\\classes\\WiredAnnouncementsSharingTest.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ngwei\\Downloads\\SFDC\\SFDC_DEV\\force-app\\main\\default\\classes\\WiredAnnouncementsSharingTest.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 207,
+            "modifiedTime": 1535204118000,
+            "changeTime": 1586577655326,
+            "contentHash": "daffa4068ca6dc1fcc2038c9cd705a00223ee5be",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ngwei\\Downloads\\SFDC\\SFDC_DEV\\force-app\\main\\default\\layouts",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ngwei\\Downloads\\SFDC\\SFDC_DEV\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1535197322000,
+            "changeTime": 1586577656070,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ngwei\\Downloads\\SFDC\\SFDC_DEV",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\ngwei\\Downloads\\SFDC\\SFDC_DEV",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1586583859464,
+            "changeTime": 1586583859464,
+            "contentHash": "fc16bd3bc8e6bfe6aa22329aa5457c6ba306990a",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
