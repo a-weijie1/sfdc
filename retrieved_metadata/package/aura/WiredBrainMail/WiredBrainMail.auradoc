@@ -1,7 +1,0 @@
-<aura:documentation>
-	<aura:description>WiredBrainMail</aura:description>
-	<aura:example name="MainApplication" ref="WiredBrainMailExample" label="Label">
-		This is the primary application for the Wired Brain Coffee Mail related functionality.
-		For now, it only serves as an effective container to WiredBrainMailSignUp.
-	</aura:example>
-</aura:documentation>

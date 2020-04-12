@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+  <types>
+    <name>CustomObject</name>
+    <members>Error__c</members>
+    <members>Wired_Mail_Sign_Up__c</members>
+    <members>Wired_Announcement__c</members>
+  </types>
+  <version>43.0</version>
+</Package>
